@@ -1,3 +1,0 @@
-
-
-class FBXHeaderExtension: pass

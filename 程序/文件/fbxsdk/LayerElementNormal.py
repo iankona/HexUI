@@ -1,3 +1,0 @@
-
-
-class LayerElementNormal: pass

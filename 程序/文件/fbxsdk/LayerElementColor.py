@@ -1,3 +1,0 @@
-
-
-class LayerElementColor: pass
